@@ -1,0 +1,3 @@
+# Runtime and dev dependencies for python-starting-project
+# Regenerate after changes with: pip freeze > requirements.txt
+pytest>=8.0
