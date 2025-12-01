@@ -61,3 +61,6 @@ Or run the CLI module directly with Python:
 python -m python_starting_project.cli
 python -m python_starting_project.cli Alice -v
 ```
+
+Pylance
+For strict type checking
