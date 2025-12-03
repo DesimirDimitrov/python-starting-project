@@ -1,16 +1,12 @@
 """Place for string practice exercises."""
 
-
-def example_concat(first: str, last: str) -> str:
-    full = first + " " + last
-    return full
-
-
-def example_format(name: str, age: int) -> str:
-    return f"My name is {name} and I am {age} years old."
+def example1() -> str:
+    string1 = "apple pie"
+    return string1[-2]
 
 
 if __name__ == "__main__":
     # Try changing these values while learning
-    print(example_concat("Ada", "Lovelace"))
-    print(example_format("Ada", 36))
+    print(example1())
+
+
